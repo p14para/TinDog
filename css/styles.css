@@ -1,4 +1,13 @@
-h1 {  font-family: 'Montserrat, sans-serif';  font-size: 3rem;  line-height: 1.5;  font-weight: 900;}
+body {
+    font-family: "Montserrat";
+}
+
+h1 {  
+    font-family: 'Abril Fatface', cursive;
+    font-size: 4rem;  
+    line-height: 1.5;  
+    font-weight: 900;
+}
 
 #title {
     background-color: #ff4c68;
@@ -7,3 +16,25 @@ h1 {  font-family: 'Montserrat, sans-serif';  font-size: 3rem;  line-height: 1.5
 .container-fluid {
     padding: 3% 15%;
 }
+
+.nearby {
+    color: white;
+}
+
+.navbar {
+    margin-bottom: 60px;
+}
+
+.navbar-brand {
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Passion One', cursive;
+    letter-spacing: 3px;
+}
+
+.dogPhoto {
+    width: 250px;
+    transform: rotate(20deg);
+    margin-top: 30px;
+}
+
