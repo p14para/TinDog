@@ -43,6 +43,9 @@ h2 {
     width: 50%;
     transform: rotate(25deg);
     display: block;
+    position: relative;
+    z-index: 1;
+    top: 120px;
     margin-right: auto;
     margin-left: auto;
 
@@ -59,6 +62,9 @@ h2 {
 
 #features {
     margin:140px auto 140px auto;
+    background-color: #fff;
+    position: relative;
+    bottom: 60px;
 }
 
 .fa-solid {
@@ -106,4 +112,15 @@ h3 {
 
 .pricing-column {
     padding: 2% 3%;
+}
+
+.topBlock {
+    position: relative;
+    z-index: 0;
+}
+
+.whiteBlock {
+    height: 100px;
+    position: relative;
+    z-index: 1;
 }
