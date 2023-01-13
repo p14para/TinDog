@@ -126,3 +126,13 @@ h3 {
     background-color: #fff;
     border: none;
 }
+
+@media (max-width: 1028px) {
+    .dogPhoto {
+        transform: rotate(0);
+    }
+
+    #title {
+        text-align: center;
+    }
+}
