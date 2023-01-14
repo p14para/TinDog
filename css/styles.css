@@ -148,3 +148,14 @@ h3 {
 .ctaText {
     font-size: 4rem;
 }
+
+#footer {
+    padding: 7%;
+    text-align: center;
+}
+
+.ico {
+    color: black;
+    padding: 6px;
+    margin-bottom: 10px;
+}
