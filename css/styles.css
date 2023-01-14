@@ -136,3 +136,15 @@ h3 {
         text-align: center;
     }
 }
+
+#cta {
+    background-color:#ff4c68;
+    color: #fff;
+    padding: 8%;
+    text-align: center;
+    
+}
+
+.ctaText {
+    font-size: 3rem;
+}
