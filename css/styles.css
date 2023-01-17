@@ -15,6 +15,10 @@ h2 {
     line-height: 1.5;
 }
 
+h3 {
+    font-weight: bold;
+}
+
 #title {
     background-color: #ff4c68;
     color: #fff;
@@ -72,9 +76,7 @@ h2 {
     padding: 20px;
 }
 
-h3 {
-    font-weight: bold;
-}
+
 
 .secondText {
     color: #8f8f8f;
